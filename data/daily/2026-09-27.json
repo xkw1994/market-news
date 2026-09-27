@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-09-27T11:45:00+09:00",
+  "date": "2026-09-27",
+  "summary": "今日全球核心市场动态聚焦于地缘局势、汇率异动、宏观情绪与科技行业战略调整：中东停火提议遇挫推升油价，美元迎半年来最强反弹，美国消费者信心创四个月新低，微软宣布重构 Copilot 退出个人 AI 伴侣竞赛。",
+  "highlights": [
+    "中东地缘局势紧绷：特朗普拒绝伊朗停火提议，霍尔木兹海峡受阻担忧刺激原油大涨",
+    "美元指数强势反弹：创近6个月最大两周涨幅，美联储鹰派预期推升美债收益率逼近5%",
+    "美国消费者信心走弱：密歇根大学9月消费者信心指数降至48.1，通胀预期再度升温",
+    "微软 AI 战略大转向：Copilot 合并消费与企业版，全面发力企业办公自动化并放弃个人聊天伴侣竞赛"
+  ],
+  "categories": [
+    {
+      "name": "地缘政治与能源",
+      "items": [
+        {
+          "title": "中东停火协议破局，特朗普拒绝伊朗7天停火提议",
+          "content": "据彭博社及华尔街日报报道，特朗普拒绝了伊朗提出的为期7天停火建议，并维持对伊朗港口及霍尔木兹海峡的海上封锁。伊朗总统佩泽希齐扬在联大重申封锁解除前不开放海峡，国际能源署（IEA）报告指出全球原油库存大幅下降，布伦特原油此前冲上113美元/桶高位，柴油价格与海运成本居高不下。",
+          "source": "Bloomberg / IEA",
+          "published_at": "2026-09-26T12:36:00+08:00",
+          "url": "https://www.theedgesingapore.com/news/us-iran-tensions/trump-said-reject-irans-seven-day-ceasefire-proposal",
+          "tags": ["地缘政治", "原油", "能源"]
+        }
+      ]
+    },
+    {
+      "name": "外汇与固定收益",
+      "items": [
+        {
+          "title": "美元迎来半年来最强劲双周涨幅，华尔街投行全面翻多",
+          "content": "彭博美元现货指数在过去两周上涨约2%，创下自3月以来最强反弹。随着美联储鹰派预期升温、各期限美债收益率逼近或升破5%，以及地缘动荡引发的避险买盘，前阶段的货币贬值交易（debasement trade）暂时退潮，摩根士丹利正式反手翻多美元至年底。",
+          "source": "Bloomberg",
+          "published_at": "2026-09-25T19:47:00+08:00",
+          "url": "https://www.theedgesingapore.com/news/currencies/dollars-best-rally-march-has-legs-fortunes-shift",
+          "tags": ["外汇", "美元", "美债"]
+        }
+      ]
+    },
+    {
+      "name": "宏观经济与通胀",
+      "items": [
+        {
+          "title": "美国9月密歇根消费者信心指数跌至48.1，创四个月新低",
+          "content": "密歇根大学最终数据显示9月消费者信心降至48.1。消费者对未来一年的通胀预期从4%升至4.6%，5-10年期长期通胀预期升至3.4%。高昂的柴油与燃油价格，叠加超过7%的房贷利率，正在持续抑制居民消费预期与财务信心。",
+          "source": "Bloomberg",
+          "published_at": "2026-09-25T22:28:00+08:00",
+          "url": "https://www.theedgesingapore.com/news/us-economy/us-consumer-sentiment-falls-concerns-about-prices-economy",
+          "tags": ["宏观经济", "通胀", "美联储"]
+        }
+      ]
+    },
+    {
+      "name": "科技与人工智能",
+      "items": [
+        {
+          "title": "微软宣布 Copilot 重大重构：放弃个人 AI 伴侣赛道，全力押注企业生产力",
+          "content": "微软宣布将消费版与企业版 Copilot 合并为统一的企业级生产力产品，不再与 ChatGPT、Gemini 以及 Meta Muse 在个人聊天伴侣市场角逐。新版深度整合 Word 与 Excel 协同编辑能力，并推出 Autopilot 协同办公机器人，全力巩固 Office 商业生态护城河。",
+          "source": "Bloomberg",
+          "published_at": "2026-09-25T21:03:00+08:00",
+          "url": "https://www.theedgesingapore.com/news/artificial-intelligence/microsoft-abandons-personal-ai-chatbot-race-copilot-reboot",
+          "tags": ["AI", "科技巨头", "微软"]
+        }
+      ]
+    }
+  ]
+}
